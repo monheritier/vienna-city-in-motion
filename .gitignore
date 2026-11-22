@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+*.gpkg-wal
+*.gpkg-shm
+.DS_Store
